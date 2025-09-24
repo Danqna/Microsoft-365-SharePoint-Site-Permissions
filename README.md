@@ -1,7 +1,7 @@
 # SharePoint Permissions Analyzer
 
 A comprehensive Python application to analyze Microsoft 365 SharePoint permissions and shared links across all sites in your tenant.
-
+<img width="1156" height="849" alt="image" src="https://github.com/user-attachments/assets/af0bfeb4-9562-4884-8917-491e527357de" />
 ## Features
 
 - 🔐 **Modern Authentication**: Secure authentication with Microsoft 365 using MSAL
